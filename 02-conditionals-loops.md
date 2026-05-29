@@ -1,5 +1,3 @@
-# 02-conditionals-loops.md
-
 # Bash Conditionals & Loops 🔁
 
 ## What are Conditionals?
