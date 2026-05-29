@@ -1,5 +1,3 @@
-# 04-pipes-redirection.md
-
 # Bash Pipes & Redirection 🔀
 
 ## What are Pipes?
