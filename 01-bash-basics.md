@@ -1,5 +1,3 @@
-# 01-bash-basics.md
-
 # Bash Basics 🖥️
 
 ## What is Bash?
