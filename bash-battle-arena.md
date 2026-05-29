@@ -1,5 +1,3 @@
-# bash-battle-arena.md
-
 # Bash Battle Arena ⚔️
 
 ## What is Bash Battle Arena?
