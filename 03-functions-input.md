@@ -1,5 +1,3 @@
-# 03-functions-input.md
-
 # Bash Functions & User Input ⚙️
 
 ## What are Functions?
